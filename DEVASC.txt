@@ -1,3 +1,6 @@
-Yo estoy pasando en DevNet DEVASC exam
+<<<<<<< HEAD
+=======
+Yo estoy pasando en NetAcad DEVASC exam
+>>>>>>> test
 Estoy empezando a entender Git!
 Esta es una nueva rama
